@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		F04D5A5A1E87F8FD00DC0D69 /* xtest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = xtest; path = /Volumes/ExtDisk/github/test/xtest/build/Debug/xtest; sourceTree = "<absolute>"; };
+		F04D5A641E87FA0700DC0D69 /* test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +37,7 @@
 		F04D5A511E87F8FD00DC0D69 = {
 			isa = PBXGroup;
 			children = (
+				F04D5A641E87FA0700DC0D69 /* test.h */,
 			);
 			sourceTree = "<group>";
 		};
